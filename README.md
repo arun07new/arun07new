@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**arun07new/arun07new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arun07new/arun07new.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
